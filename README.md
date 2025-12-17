@@ -85,8 +85,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/saas-app.git
-cd saas-app
+git clone https://github.com/parth799/SaaS-app.git
+cd SaaS-app
 ```
 
 **Installation**
