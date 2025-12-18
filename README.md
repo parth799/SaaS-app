@@ -16,7 +16,8 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🚀 [More](#more)
+5. 🌐 [Deployment](#deployment)
+6. 🚀 [More](#more)
 
 ## 🚨 Tutorial
 
@@ -130,10 +131,37 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
+## <a name="deployment">🌐 Deployment</a>
+
+**Deploy to Vercel**
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new).
+
+```bash
+# Install Vercel CLI
+npm i -g vercel
+
+# Deploy
+vercel
+```
+
+Make sure to add all your environment variables in the Vercel dashboard under Project Settings → Environment Variables.
+
+**Deploy to Other Platforms**
+
+This project can also be deployed to:
+- [Netlify](https://www.netlify.com/)
+- [Railway](https://railway.app/)
+- [Render](https://render.com/)
+
 ## <a name="more">🚀 More</a>
 
 **Advance your skills with Next.js Pro Course**
 
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
 detailed explanations, cool features, and exercises to boost your skills. Give it a go!
+
+---
+
+**Built with ❤️ using Next.js 15 and modern web technologies**
 
